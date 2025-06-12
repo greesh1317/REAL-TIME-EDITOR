@@ -11,6 +11,14 @@
 
 ### A Simple Real-Time Text Editor for Group Projects 
 
+<img width="439" alt="1 v" src="https://github.com/user-attachments/assets/308ed9fe-8200-42bd-ae8a-43832d932215" />
+
+**loading page**
+
+<img width="938" alt="2 v" src="https://github.com/user-attachments/assets/b54324af-2ef9-433c-bb78-dd9a67674ec4" />
+
+**main page**
+
 **Collaborative Editor** is a basic real-time text editor built for teams and students who want to edit the same document together without sending files back and forth. It runs locally, works instantly, and brings shared editing features like live typing, syncing, and cursor visibility—just like Google Docs, but lightweight and offline-friendly.
 
 ## Why Use This?
