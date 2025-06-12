@@ -1,0 +1,49 @@
+/* index.css — Vintage Theme */
+
+/* 
+  Ensure in public/index.html you have:
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+*/
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Special Elite', 'Courier New', monospace;
+  background-color: #f8f3e6;
+  background-image: url('./assets/parchment-bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #3e2c1c;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Optional vintage feel for <code> blocks */
+code {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #f4e5bc;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* Vintage-style scrollbars */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #f1e7d0;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #a67c52;
+  border-radius: 10px;
+  border: 2px solid #f1e7d0;
+}
+
+/* Vintage-style text selection */
+::selection {
+  background: #e6cfa4;
+  color: #2c1b0e;
+}
