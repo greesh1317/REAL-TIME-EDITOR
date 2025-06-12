@@ -42,7 +42,7 @@ code {
   border: 2px solid #f1e7d0;
 }
 
-/* Vintage-style text selection */
+
 ::selection {
   background: #e6cfa4;
   color: #2c1b0e;

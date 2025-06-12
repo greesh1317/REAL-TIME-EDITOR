@@ -1,0 +1,10 @@
+# Auto-detect text files and normalize line endings to LF
+* text=auto
+
+# Force specific files to always use LF (Unix) line endings
+*.sh text eol=lf
+*.py text eol=lf
+
+# Force binary files to avoid any line ending conversion
+*.png binary
+*.jpg binary
