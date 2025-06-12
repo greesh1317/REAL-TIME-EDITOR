@@ -2,6 +2,13 @@
 
 # Collaborative Editor
 
+**Company:** CODTECH IT SOLUTIONS  
+**Name:** SOLASA GREESHMA DIVYA SREE  
+**Intern ID:** CT04DN1334  
+**Domain:** MERN Stack Web Development  
+**Duration:** 4 weeks  
+**Mentor:** NEELA SANTHOSH 
+
 ### A Simple Real-Time Text Editor for Group Projects 
 
 **Collaborative Editor** is a basic real-time text editor built for teams and students who want to edit the same document together without sending files back and forth. It runs locally, works instantly, and brings shared editing features like live typing, syncing, and cursor visibility—just like Google Docs, but lightweight and offline-friendly.
